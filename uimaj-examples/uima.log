@@ -1,0 +1,6 @@
+02:53:45.128 - 46: org.apache.uima.internal.util.XMLUtils.createSaxTransformerFactory(614): WARNING: SAXTransformerFactory didn't recognize setting attribute http://javax.xml.XMLConstants/property/accessExternalDTD
+02:53:45.139 - 46: org.apache.uima.internal.util.XMLUtils.createSaxTransformerFactory(621): WARNING: SAXTransformerFactory didn't recognize setting attribute http://javax.xml.XMLConstants/property/accessExternalStylesheet
+02:53:46.518 - 52: org.apache.uima.internal.util.XMLUtils.createSaxTransformerFactory(614): WARNING: SAXTransformerFactory didn't recognize setting attribute http://javax.xml.XMLConstants/property/accessExternalDTD
+02:53:46.518 - 52: org.apache.uima.internal.util.XMLUtils.createSaxTransformerFactory(621): WARNING: SAXTransformerFactory didn't recognize setting attribute http://javax.xml.XMLConstants/property/accessExternalStylesheet
+02:53:47.37 - 50: org.apache.uima.internal.util.XMLUtils.createTransformerFactory(633): WARNING: TransformerFactory didn't recognize setting attribute http://javax.xml.XMLConstants/property/accessExternalDTD
+02:53:47.37 - 50: org.apache.uima.internal.util.XMLUtils.createTransformerFactory(640): WARNING: TransformerFactory didn't recognize setting attribute http://javax.xml.XMLConstants/property/accessExternalStylesheet
